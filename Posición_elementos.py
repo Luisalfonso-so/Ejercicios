@@ -12,7 +12,7 @@ class obtener_posiciones:
     def vector(self):
         posiciones=[]
         
-        #Método de la burbuja que el profesor envió el dia 23 de enero por el grupo.
+        #Método de la burbuja
         #Se usa este método para ordenar el vector original y obtener las posiciones para luego comparar y 
         # obtener el vector deseado.
         for i in range(len(self.lista)):
